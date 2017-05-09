@@ -428,7 +428,7 @@
     <string name="card_title_dialing" msgid="5769417478498348054">"ડાયલ કરી રહ્યાં છે"</string>
     <string name="card_title_redialing" msgid="8253487008234167266">"ફરી ડાયલ કરી રહ્યાં છે"</string>
     <string name="card_title_conf_call" msgid="1162980346189744501">"કોન્ફરન્સ કૉલ"</string>
-    <string name="card_title_incoming_call" msgid="7364539451234646909">"આવનાર કૉલ"</string>
+    <string name="card_title_incoming_call" msgid="7364539451234646909">"ઇનકમિંગ કૉલ"</string>
     <string name="card_title_call_ended" msgid="5544730338889702298">"કૉલ સમાપ્ત થયો"</string>
     <string name="card_title_on_hold" msgid="821463117892339942">"હોલ્ડ પર"</string>
     <string name="card_title_hanging_up" msgid="3999101620995182450">"સમાપ્ત કરી રહ્યાં છે"</string>
@@ -439,7 +439,8 @@
     <string name="notification_voicemail_no_vm_number" msgid="760963466895609716">"વૉઇસમેઇલ નંબર અજાણ"</string>
     <string name="notification_network_selection_title" msgid="4224455487793492772">"કોઈ સેવા નથી"</string>
     <string name="notification_network_selection_text" msgid="2607085729661923269">"પસંદ કરેલ નેટવર્ક (<xliff:g id="OPERATOR_NAME">%s</xliff:g>) અનુપલબ્ધ"</string>
-    <string name="incall_error_power_off" msgid="2947938060513306698">"કૉલ કરવા માટે એરપ્લેન મોડ બંધ કરો."</string>
+    <string name="incall_error_power_off" product="watch" msgid="772302793483607711">"કૉલ કરવા માટે એરપ્લેન મોડ અથવા બૅટરી બચતકર્તા મોડ બંધ કરો."</string>
+    <string name="incall_error_power_off" product="default" msgid="2947938060513306698">"કૉલ કરવા માટે એરપ્લેન મોડ બંધ કરો."</string>
     <string name="incall_error_power_off_wfc" msgid="8711428920632416575">"કૉલ કરવા માટે એરપ્લેન મોડ બંધ કરો અથવા વાયરલેસ નેટવર્કથી કનેક્ટ કરો."</string>
     <string name="incall_error_ecm_emergency_only" msgid="738708660612388692">"બિન-કટોકટીનો કૉલ કરવા માટે કટોકટી કૉલબૅક મોડમાંથી બહાર નીકળો."</string>
     <string name="incall_error_emergency_only" msgid="4678640422710818317">"નેટવર્ક પર નોંધણી કરાયેલ નથી."</string>
@@ -566,7 +567,7 @@
     <string name="sim_description_emergency_calls" msgid="7535215397212301562">"ફક્ત કટોકટીની કૉલિંગ"</string>
     <string name="sim_description_default" msgid="4778679519938775515">"SIM કાર્ડ, સ્લોટ: <xliff:g id="SLOT_ID">%s</xliff:g>"</string>
     <string name="accessibility_settings_activity_title" msgid="8562004288733103868">"ઍક્સેસિબિલિટી"</string>
-    <string name="status_hint_label_incoming_wifi_call" msgid="8772915926382037499">"આવનાર Wi-Fi કૉલ"</string>
+    <string name="status_hint_label_incoming_wifi_call" msgid="5932176406432044638">"આમના તરફથી Wi-Fi કૉલ"</string>
     <string name="status_hint_label_wifi_call" msgid="8900805254974653903">"Wi-Fi કૉલ"</string>
     <string name="emergency_action_launch_hint" msgid="4906759256275562674">"ખોલવા માટે ફરીથી ટૅપ કરો"</string>
     <string name="message_decode_error" msgid="3456481534066924855">"સંદેશ ડીકોડિંગ કરતી વખતે ભૂલ આવી હતી."</string>
